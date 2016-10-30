@@ -6,7 +6,8 @@
   "scripts": {
     "start": "node app.js",
     "compile": "tsc",
-    "watch": "tsc -w"
+    "watch": "tsc -w",
+    "stop": "node app.stop.js"
   },
   "repository": {
     "type": "git",

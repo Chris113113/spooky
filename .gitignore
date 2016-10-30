@@ -42,3 +42,6 @@ app.js
 app.js.map
 
 secret.json
+
+# Nodemon configuration file
+nodemon.json
